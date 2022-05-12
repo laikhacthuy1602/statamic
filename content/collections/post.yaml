@@ -1,0 +1,10 @@
+title: Post
+template: post/show
+layout: layout
+revisions: false
+route: '/post/{slug}'
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
