@@ -1,11 +1,11 @@
 <p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo+Wordmark-Rad.svg" width="400" alt="Statamic Logo" /></p>
 
 ## Run project local
-composer install
-npm install
-npm run dev
-cp .env.example .env
-php artisan key:generate
+<p>composer install</p>
+<p>npm install</p>
+<p>npm run dev</p>
+<p>cp .env.example .env</p>
+<p>php artisan key:generate</p>
 
 ## About Statamic 3
 
