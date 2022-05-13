@@ -1,5 +1,12 @@
 <p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo+Wordmark-Rad.svg" width="400" alt="Statamic Logo" /></p>
 
+## Run project local
+composer install
+npm install
+npm run dev
+cp .env.example .env
+php artisan key:generate
+
 ## About Statamic 3
 
 Statamic 3 is the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites.
